@@ -19,7 +19,9 @@ Comandos do Bot:
 * /12
 
 Requerimentos:
-
 * Selenium
 * ChromeDriverManager
 * pyTelegramBotAPI
+
+Chave:
+O código requer um arquivo key.txt na mesma pasta que contenha o token do bot.
